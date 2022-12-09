@@ -128,7 +128,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(255, 255, 255, 0.35);
+    background: rgba(0, 0, 0, 0.75);
     width: 75px;
     height: 75px;
     border-radius: 50%;
